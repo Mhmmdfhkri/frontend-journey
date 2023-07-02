@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    background-image: url(https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/suka-mendaki-gunung-coba-jelajahi-5-gunung-diindonesiaaja-ini-yuk/mobile.jpg) top left no-repeat;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(160, 35, 154);
+}
+/* id pake # */
+/* satu elemen hanya untuk 1 id */
+#p1 {
+    color: rgb(1, 22, 22);
+}
+
+/* class pake titik  */
+/* lebih baik pake class */
+/* sebisa mungkin pake elemen saja  */
+.p2 {
+    color: rgb(255, 0, 0);
+}
+
+/* tempat background keren subtle pattern */
