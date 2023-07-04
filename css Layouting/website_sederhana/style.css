@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://img.antaranews.com/cache/730x487/2021/07/19/lamborghini-aventador-lp-780-4-ultimae.jpg.webp) ;
+}
+
+.container {
+    margin: 0px 100px 0px 100px;
+    background-color: aliceblue;
+}
+.header {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.title {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+p {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+
+.paragraf {
+    text-align: justify;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+
+
+img {
+    margin-top: 10px;
+    height: 200px;
+    width: 405px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top:  solid;
+    border-bottom: solid;
+    border-color: rgb(0, 21, 255);
+}
+
+div .Copyright {
+    text-align: center;
+    background-color: rgb(50, 50, 50);
+    padding: 0%;
+    color: aliceblue;
+}
+
+a {
+    padding: 5px;
+    color: brown;
+    text-decoration: none;
+} 
